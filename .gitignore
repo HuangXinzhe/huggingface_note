@@ -1,0 +1,9 @@
+$ cat .gitignore
+/.idea/
+*/__pycache__
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+/test/
+*/data/
+/02_fine_tunning_pretrained_model/test-trainer/
+/01_use_transformer/directory_on_my_computer/
