@@ -163,3 +163,5 @@ cython_debug/
 .idea/
 .DS_Store
 test
+hugging_face_nlp_tutorial/05_datasets_library/data
+hugging_face_nlp_tutorial/.env
