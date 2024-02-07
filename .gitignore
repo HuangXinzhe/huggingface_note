@@ -165,3 +165,7 @@ cython_debug/
 test
 hugging_face_nlp_tutorial/05_datasets_library/data
 hugging_face_nlp_tutorial/.env
+hugging_face_nlp_tutorial/06_tokenizers_library/data
+hugging_face_nlp_tutorial/06_tokenizers_library/model
+hugging_face_nlp_tutorial/09_build_share_demos/model
+hugging_face_nlp_tutorial/09_build_share_demos/data
