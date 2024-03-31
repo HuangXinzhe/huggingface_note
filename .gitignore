@@ -163,9 +163,11 @@ cython_debug/
 .idea/
 .DS_Store
 test
-hugging_face_nlp_tutorial/05_datasets_library/data
-hugging_face_nlp_tutorial/.env
-hugging_face_nlp_tutorial/06_tokenizers_library/data
-hugging_face_nlp_tutorial/06_tokenizers_library/model
-hugging_face_nlp_tutorial/09_build_share_demos/model
-hugging_face_nlp_tutorial/09_build_share_demos/data
+nlp_tutorial/05_datasets_library/data
+nlp_tutorial/.env
+nlp_tutorial/06_tokenizers_library/data
+nlp_tutorial/06_tokenizers_library/model
+nlp_tutorial/09_build_share_demos/model
+nlp_tutorial/09_build_share_demos/data
+download.py
+test.ipynb
